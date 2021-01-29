@@ -1,0 +1,21 @@
+{
+    "personas": [
+      {
+        "apodo": "bambam",
+        "nombre": "Ivan"
+      },
+      {
+        "apodo": "burros cochinito",
+        "nombre": "Gaby"
+      },
+      {
+        "apodo": "chómpiras",
+        "nombre": "Raul"
+      },
+
+      {
+        "apodo": "Cochinita",
+        "nombre": "Heidy"
+      }
+    ]
+}
